@@ -1,4 +1,4 @@
-# blender_oscilloscope_effect
+# OscilloscopeMusic Visualization For Blender
 ## Prerequisites
 need [Node.js](https://nodejs.org/) and audio-decode
 ## How to Use
