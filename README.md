@@ -1,3 +1,4 @@
+# Being refactored
 # OscilloscopeMusic Visualization For Blender
 ## Prerequisites
 need [Node.js](https://nodejs.org/) and audio-decode
